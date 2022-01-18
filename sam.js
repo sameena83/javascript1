@@ -83,3 +83,7 @@ function interestCalculator(amount){
     console.log("The total interest for the"+amount+" for 2 months is"+totalinterest)
 }
 interestCalculator(amount)
+
+///To check whether some developer in the list
+
+const se_developer=['Hassan', 'sameena','mirinka','rukoula']
